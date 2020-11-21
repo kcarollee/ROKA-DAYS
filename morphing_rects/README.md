@@ -1,0 +1,1 @@
+need imgNum number of png files named as p + imgNum + .png
