@@ -1,0 +1,3 @@
+the reason why this text is printed out after console.log('here')
+is because fs is an asynchronous function. once all the contents
+of this text file is read, the callback is executed. 
